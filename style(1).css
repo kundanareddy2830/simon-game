@@ -1,0 +1,76 @@
+.btn{
+    height: 10rem;
+    width: 10rem;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 2.5rem;
+    
+    
+    }
+    
+    .btn-container{
+        display: flex;
+       justify-content: center;
+    
+    
+       /* flex-wrap: wrap; */
+    
+    }
+    
+    body{
+        text-align: center;
+        background-color: rgb(11, 11, 11);
+    }
+    
+    
+    .red{
+        background-color:rgb(196, 95, 137) ;
+    }
+    
+    .yellow{
+        background-color:rgb(236, 188, 87) ;
+    }
+    
+    .green{
+        background-color:rgb(89, 173, 174) ;
+    }
+    
+    .purple{
+        background-color:rgb(61, 121, 194) ;
+    }
+    
+    .flash{
+    
+        background-color: white;
+    }
+    
+    .btn:hover{
+        box-shadow: 2px 2px 10px rgb(57, 55, 55);
+        transition-timing-function: ease-in;
+        transition-delay: 1sec;
+    }
+    
+    .btn{
+        box-shadow: 1px 1px 10px rgb(100, 92, 92);
+    }
+    
+    h2{
+        color: bisque;
+       
+        font-family: "Chakra Petch", serif;
+        font-weight: 300;
+        font-style: normal;
+      }
+      
+  h1 {
+        font-family: "Press Start 2P", serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 40px;
+        color: #FFD700; /* Bright Yellow */
+        text-shadow: 4px 4px 0px #FF3131, 8px 8px 0px #0096FF; /* Red & Blue Outline Effect */
+        text-align: center;} 
+  
+    
+    
+      
