@@ -21,3 +21,11 @@ Game Logic Control: A loop-based system tracks user input and compares it with t
 🚀 Progressive Difficulty as the game advances
 🎯 Score Tracking to monitor performance
 📱 Responsive Design for desktop & mobile screens
+screens
+
+🚀 How to Play?
+Open index.html in a browser.
+Click "Start" to begin the game.
+Watch and memorize the color sequence.
+Click the colors in the correct order to advance to the next level!
+
